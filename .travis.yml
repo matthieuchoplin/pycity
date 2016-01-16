@@ -1,9 +1,12 @@
 language: python
 python:
   - "3.5"
+before_install:
+  - "export DISPLAY=:99.0"
+  - "sh -e /etc/init.d/xvfb start"
 # command to install dependencies
 install: "pip install -r requirements.txt"
 # command to run tests
-script: nosetests  --with-coverage weak1/
+script: nosetests  --with-coverage week_1/
 after_success:
   - coveralls
