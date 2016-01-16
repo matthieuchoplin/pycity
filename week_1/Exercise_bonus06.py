@@ -14,4 +14,4 @@ turtle.forward(50)
 turtle.left(180)
 turtle.forward(100)
 
-turtle.done() 
+turtle.reset()
