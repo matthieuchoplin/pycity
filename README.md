@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/matthieuchoplin/pycity.svg?branch=master)](https://travis-ci.org/matthieuchoplin/pycity)
+[![Coverage Status](https://coveralls.io/repos/matthieuchoplin/pycity/badge.svg?branch=master&service=github)](https://coveralls.io/github/matthieuchoplin/pycity?branch=master)
 
 The programs of these repositories have been written for **python3**.
 
