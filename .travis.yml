@@ -4,6 +4,6 @@ python:
 # command to install dependencies
 install: "pip install -r requirements.txt"
 # command to run tests
-script: nosetests  --with-coverage week1/
+script: nosetests  --with-coverage week_1/
 after_success:
   - coveralls
