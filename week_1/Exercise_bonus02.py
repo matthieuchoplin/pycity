@@ -4,5 +4,7 @@ following formulas:
 area = radius * radius * p
 perimeter = 2 * radius * p
 '''
-print(5.5 * 5.5 * 3.14159)
-print(2 * 5.5 * 3.14159)
+from math import pi
+radius = 5.5
+print('{0:.2f}'.format(radius * radius * pi))
+print('{0:.2f}'.format(2 * radius * pi))
