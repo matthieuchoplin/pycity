@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/matthieuchoplin/pycity.svg?branch=master)](https://travis-ci.org/matthieuchoplin/pycity)
+
 The programs of these repositories have been written for **python3**.
 
 It is recommended to use a *virtual environment* for running the programs.
