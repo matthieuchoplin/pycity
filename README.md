@@ -5,6 +5,11 @@ The programs of these repositories have been written for **python3**.
 
 It is recommended to use a *virtual environment* for running the programs.
 
+## Managing a virtual environment with Pycharm
+If you can install Pycharm on your machine, I think it is the easiest and generic way for dealing with virtual environment.
+More help at this link: https://www.jetbrains.com/pycharm/help/creating-virtual-environment.html
+Then , if you are happy to manage the virtual environment with Pycharm, you can ignore the following, which are insructions for managing the virtual environment through the command shell.
+
 ## If the computer is running **python3** by default
 
 You can use the [pyvenv](https://docs.python.org/3/library/venv.html) command.
